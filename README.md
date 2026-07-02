@@ -6,7 +6,6 @@ This project demonstrates an end-to-end Data Analytics workflow using Python, SQ
 
 ## Dataset
 The dataset contains business-related information used for data analysis and visualization.
-
 The project involves:
 * Loading the dataset into Python
 * Exploring data structure and quality
@@ -34,12 +33,10 @@ The project involves:
 ## Project Workflow
 
 ### 1. Data Loading
-
 * Import dataset into Python
 * Inspect rows, columns, and data types
 
 ### 2. Exploratory Data Analysis (EDA)
-
 * Analyze dataset structure
 * Generate descriptive statistics
 * Identify missing values
@@ -48,7 +45,6 @@ The project involves:
 * Create visualizations
 
 ### 3. Data Cleaning
-
 * Handle missing values
 * Remove duplicate records
 * Correct inconsistent data
@@ -57,9 +53,7 @@ The project involves:
 * Prepare data for analysis
 
 ### 4. SQL Analysis
-
 Import the cleaned dataset into PostgreSQL, MySQL, or SQL Server and perform SQL queries such as:
-
 * Filtering data
 * Aggregations
 * GROUP BY
@@ -71,9 +65,7 @@ Import the cleaned dataset into PostgreSQL, MySQL, or SQL Server and perform SQL
 * Business KPI analysis
 
 ### 5. Power BI Dashboard
-
 Create an interactive dashboard that includes:
-
 * KPI Cards
 * Bar Charts
 * Line Charts
@@ -83,9 +75,7 @@ Create an interactive dashboard that includes:
 * Business Insights
 
 ### 6. Report
-
 Prepare a report summarizing:
-
 * Data cleaning process
 * EDA findings
 * SQL insights
@@ -93,9 +83,7 @@ Prepare a report summarizing:
 * Business recommendations
 
 ### 7. Presentation
-
 Create a professional presentation using Gamma covering:
-
 * Project overview
 * Dataset
 * Methodology
@@ -104,10 +92,7 @@ Create a professional presentation using Gamma covering:
 * Recommendations
 * Conclusion
 
----
-
 ## Dashboard Features
-
 * Interactive filters
 * KPI summary
 * Sales/Business trends
@@ -116,7 +101,8 @@ Create a professional presentation using Gamma covering:
 * Regional performance
 * Performance comparison
 
----
+📊 Dashboard Preview
+(Dashboard-Screenshot.png)
 
 ## Results
 
